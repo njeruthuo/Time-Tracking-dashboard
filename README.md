@@ -1,43 +1,59 @@
-# Front-end Style Guide
+# Frontend Mentor - Time tracking dashboard solution
 
-## Layout
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-The designs were created to the following widths:
+## Table of contents
 
-- Mobile: 375px
-- Desktop: 1440px
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+## Overview
 
-## Colors
+### The challenge
 
-### Primary
+Users should be able to:
 
-- Blue: hsl(246, 80%, 60%)
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Switch between viewing Daily, Weekly, and Monthly stats
 
-- Light red (work): hsl(15, 100%, 70%)
-- Soft blue (play): hsl(195, 74%, 62%)
-- Light red (study): hsl(348, 100%, 68%)
-- Lime green (exercise): hsl(145, 58%, 55%)
-- Violet (social): hsl(264, 64%, 52%)
-- Soft orange (self care): hsl(43, 84%, 65%)
+### Screenshot
 
-### Neutral
+![](./screenshots/s1.png)
+![](./screenshots/s2.png)
 
-- Very dark blue: hsl(226, 43%, 10%)
-- Dark blue: hsl(235, 46%, 20%)
-- Desaturated blue: hsl(235, 45%, 61%)
-- Pale Blue: hsl(236, 100%, 87%)
+### Links
 
-## Typography
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-### Body Copy
+## My process
 
-- Font size: 18px (card titles e.g. Work, Play)
+### Built with
 
-### Font
+- Flexbox
+- CSS Grid
+- Tailwind CSS
+- Semantic HTML5 markup
+- CSS custom properties
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
 
-- Family: [Rubik](https://fonts.google.com/specimen/Rubik)
-- Weights: 300, 400, 500
+### What I learned
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+### Continued development
+
+None
+
+## Author
+
+- Website - [Julius Njeru](https://frontend-portfolio-amber.vercel.app)
+- Frontend Mentor - [@njeruthuo](https://www.frontendmentor.io/profile/njeruthuo)
+- Twitter - [@njeru19_njeru](https://www.twitter.com/njeru19_njeru)
